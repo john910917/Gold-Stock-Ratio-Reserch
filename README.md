@@ -1,2 +1,2 @@
 # Gold-Stock-Ratio-Reserch
-This quantitative research report investigates the role of gold as a hedge against equity market sentiment.
+This quantitative research report investigates the role of gold as a hedge against equity market sentiment. It moves beyond traditional analysis to construct a comprehensive market risk assessment system. The core methodology utilizes a Hidden Markov Model (HMM) to classify the market into three dynamic states (Risk-On, Cautious, Risk-Off). This is integrated with four other objective indicators—ratio change, volatility divergence, warning signals, and state duration—to generate a composite market risk index (0-100), providing an objective, quantitative basis for investment decisions.
